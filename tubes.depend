@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1672580378 source:c:\kuliah\tubes2\tubes\main.cpp
+	"Pemilu.h"
+
+1672567888 source:c:\kuliah\tubes2\tubes\pemilu.cpp
+	"Pemilu.h"
+
+1672566008 c:\kuliah\tubes2\tubes\pemilu.h
+	<iostream>
+
+1672606850 source:c:\users\rad. ananta\documents\telkom university\semester 3\struktur data\praktikum\tubes\tubes\main.cpp
+	"Pemilu.h"
+
+1672604440 c:\users\rad. ananta\documents\telkom university\semester 3\struktur data\praktikum\tubes\tubes\pemilu.h
+	<iostream>
+
+1672606860 source:c:\users\rad. ananta\documents\telkom university\semester 3\struktur data\praktikum\tubes\tubes\pemilu.cpp
+	"Pemilu.h"
+
+1672567888 c:\users\rad. ananta\documents\telkom university\semester 3\struktur data\praktikum\tubes\tubes\pemilu.cpp
+	"Pemilu.h"
+
+1672606860 source:c:\kuliah\tubes\pemilu.cpp
+	"Pemilu.h"
+
+1672604440 c:\kuliah\tubes\pemilu.h
+	<iostream>
+
+1672608444 source:c:\kuliah\tubes\main.cpp
+	"Pemilu.h"
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
